@@ -1,19 +1,8 @@
-# movie_db
-
-
-Screenshots:
-https://www.behance.net/cybdom
-
-I'd appreciate it if you could show your support by buying me some coffee. Thank you :)
-
-https://www.buymeacoffee.com/bi3cp0Zk5
-
+Screenshots: 
 <img src="screenshot1.png">
 <img src="screenshot2.png">
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
