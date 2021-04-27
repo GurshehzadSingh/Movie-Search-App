@@ -1,4 +1,4 @@
-### A Movie Search App made in Flutter using TMDB API Integration.
+# A Movie Search App made in Flutter using TMDB API Integration.
 
 ## Screenshots of the Movie Search App:
 
